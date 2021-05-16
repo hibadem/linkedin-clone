@@ -1,7 +1,7 @@
 # Linkedin Homepage Clone
 
 <p align="center">
-  <img src="linkedin.PNG" alt="google clone"/>
+  <img src="picture.PNG" alt="google clone"/>
 </p>
 
 ## Installation
